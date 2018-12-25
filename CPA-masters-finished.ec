@@ -1,3 +1,5 @@
+(* Part of a masters thesis written at NTNU, by Morten Solberg *)
+
 (*** Import the theories (operators, lemmas, ...) we use throughout the proof ***)
 require import AllCore DBool Distr FSet List StdOrder.
 (*   *) import RealOrder. 
