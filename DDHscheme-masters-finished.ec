@@ -1,3 +1,5 @@
+(* Part of a masters thesis written at NTNU, by Morten Solberg *)
+
 (*** Require and import the need theories ***)
 require import AllCore DBool Distr CyclicGroup StdOrder Dexcepted StdBigop. 
 (*   *) import RealOrder Bigreal. 
